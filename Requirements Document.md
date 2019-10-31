@@ -1,27 +1,27 @@
-# Требования к проекту #
-## 1. Введение ##
-	Web-sraper. Продукт извлекает данные из веб-сайтов, размещенные для общего доступа; 
-	получать доступ к Всемирной паутине напрямую с использованием протокола передачи гипертекста. 
+# Requirements for project #
+## 1. Introduction ##
+	Web-sraper. Product extracts data from websites that placed in public access; 
+	to get directly access to WWW by  Hypertext Transfer Protocol. 
 
-## 2. Требования пользователя ##
-### 2.1 Программные интерфейсы ###
-	С#, XAML, .NET Framework 4.2 и выше, WPF, фреймворки ScrapySharp и Catel.
+## 2. User requiremets ##
+### 2.1 Software interface ###
+	С#, XAML, .NET Framework 4.2 and later, WPF, frameworks ScrapySharp и Catel.
 
-### 2.2 Интерфейс пользователя ###
-	Оконный интерфейс с возможностью ввода url-адреса сайта, с которого будет происходить сбор данных, 
-	тэги, по которым будет происходить сбор информации и формат сохранения информации с web-страницы.
+### 2.2 User interface ###
+	Window interface allows enter site`s url-address, that from will scarpe data, 
+	tags, on which information will be collected and data storage format from website.
 	
-### 2.3 Характеристики пользователей ###
-	Приложение будет работать без идентификации пользователя и сохранять все его настройки локально.
+### 2.3 User characteristics ###
+	Software will execute without user authentification and save local user settings.
 	
-### 2.4 Предположения и зависимости ###
-	Сложность поиска методов обхода современных систем защиты от скрапинга. Быстрая реализация основной логики приложения.
+### 2.4 Assumptions and dependencies ###
+	Complexity of search of methods of bypass of modern systems of protection against scraping. Fast implement main  software algorithm
 	
-## 3. Системные требования ##
-### 3.1 Функциональные требования ###
-	Сбор данных с web-ресурсов.
-	Сохрание информации в одном из возможных форматов.
-### 3.2 Нефункциональные требования ###
-	Поддержка форматов сохранения документов(PDF, HTML, txt/doc).
-	Простой и понятный интерфейс.
+## 3. System requiremets ##
+### 3.1 Functional requiremets ###
+	Scrape data from websites.
+	Save data in one of the possible formats.
+### 3.2 Non-functional requiremets ###
+	Support several data storage formats(PDF, HTML, txt/doc).
+	Simple and understandable graphic interface.
 	
