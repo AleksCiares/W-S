@@ -15,7 +15,8 @@
 	Software will execute without user authentification and save local user settings.
 	
 ### 2.4 Assumptions and dependencies ###
-	Complexity of search of methods of bypass of modern systems of protection against scraping. Fast implement main  software algorithm
+	Complexity of search of methods of bypass of modern systems of protection against scraping. 
+	Fast implement main  software algorithm
 	
 ## 3. System requiremets ##
 ### 3.1 Functional requiremets ###
