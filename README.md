@@ -7,7 +7,7 @@ reformatting the data to required format.
 Windows .NET Framework 4.2(later)
 
 ### Supported language ###
-Russian
+English
 
 ## NOTICE ##
 ### This software scrape only users information that is in the public access.
