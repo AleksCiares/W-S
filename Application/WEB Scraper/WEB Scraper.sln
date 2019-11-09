@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WEB Scraper", "WEB Scraper\WEB Scraper.csproj", "{2E846B16-52A5-4E5B-A5AE-FBD2B1537117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{6C2D8E97-14A2-4F42-9CE1-109A91A96B46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E846B16-52A5-4E5B-A5AE-FBD2B1537117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E846B16-52A5-4E5B-A5AE-FBD2B1537117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E846B16-52A5-4E5B-A5AE-FBD2B1537117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E846B16-52A5-4E5B-A5AE-FBD2B1537117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C2D8E97-14A2-4F42-9CE1-109A91A96B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2D8E97-14A2-4F42-9CE1-109A91A96B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2D8E97-14A2-4F42-9CE1-109A91A96B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2D8E97-14A2-4F42-9CE1-109A91A96B46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70CF6179-AEC5-4EDE-AB49-5753D775E8D7}
+	EndGlobalSection
+EndGlobal

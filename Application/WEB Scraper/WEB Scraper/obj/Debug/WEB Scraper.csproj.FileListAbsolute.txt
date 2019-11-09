@@ -1,0 +1,39 @@
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\WEB Scraper.exe.config
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\WEB Scraper.exe
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\WEB Scraper.pdb
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\WEB Scraper.csprojAssemblyReference.cache
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\App.g.cs
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\WEB Scraper_MarkupCompile.cache
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\WEB Scraper_MarkupCompile.lref
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\WEB Scraper.g.resources
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\WEB_Scraper.Properties.Resources.resources
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\WEB Scraper.csproj.GenerateResource.cache
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\WEB Scraper.exe
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\WEB Scraper.pdb
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\View.g.cs
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\View.baml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\FSharp.Core.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\HtmlAgilityPack.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\FSharp.Core.xml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\HtmlAgilityPack.pdb
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\HtmlAgilityPack.xml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\cs\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\de\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\en\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\es\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\fr\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\it\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\ja\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\ko\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\pl\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\pt-BR\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\ru\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\tr\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\zh-Hans\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\zh-Hant\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\WEB Scraper.csproj.CopyComplete
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\AngleSharp.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\System.Text.Encoding.CodePages.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\AngleSharp.xml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
