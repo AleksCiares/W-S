@@ -10,8 +10,6 @@ F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\WEB_Scrap
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\WEB Scraper.csproj.GenerateResource.cache
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\WEB Scraper.exe
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\WEB Scraper.pdb
-F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\View.g.cs
-F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\View.baml
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\FSharp.Core.dll
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\HtmlAgilityPack.dll
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\FSharp.Core.xml
@@ -37,3 +35,17 @@ F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\System.Te
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\ScrapySharp.Core.dll
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\ScrapySharp.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\View\View.g.cs
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\View\View.baml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\CommonServiceLocator.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\GalaSoft.MvvmLight.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\System.Windows.Interactivity.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\GalaSoft.MvvmLight.pdb
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\GalaSoft.MvvmLight.xml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\GeneratedInternalTypeHelper.g.cs
