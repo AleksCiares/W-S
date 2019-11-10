@@ -32,8 +32,8 @@ F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\tr\FSharp
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\zh-Hans\FSharp.Core.resources.dll
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\zh-Hant\FSharp.Core.resources.dll
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\WEB Scraper.csproj.CopyComplete
-F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\AngleSharp.dll
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\System.Text.Encoding.CodePages.dll
-F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\AngleSharp.xml
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\ScrapySharp.Core.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\ScrapySharp.dll

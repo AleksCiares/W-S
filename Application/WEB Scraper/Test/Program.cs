@@ -23,17 +23,15 @@ namespace Test
 
             WebParser<string> WB = new WebParser<string>();
             HtmlLoader htmlLoader = new HtmlLoader();
+            Data<string> data = new Data<string>();
             //List<HtmlDocument> documents = htmlLoader.HtmlLoad(BaseUrl);
 
             var webGet = new HtmlWeb();
             //var document = webGet.Load(BaseUrl);
 
-            foreach (HtmlDocument document in htmlLoader.HtmlLoad(BaseUrl))
+            foreach (HtmlDocument document in htmlLoader.HtmlLoad(BaseUrl, 15))
             {
-                foreach (var list in WB.Parse(document, ".post__title_link"))
-                {
-                    Console.WriteLine(list);
-                }
+                data.StorageData(@"f:/scrapingData.txt",WB.Parse(document, ".post__title_link"));
             }
 
             /*
