@@ -23,6 +23,6 @@
 	Scrape data from websites.
 	Save data in one of the possible formats.
 ### 3.2 Non-functional requiremets ###
-	Support several data storage formats(PDF, HTML, txt/doc).
+	Support several data storage formats(PDF, txt/doc).
 	Simple and understandable graphic interface.
 	
