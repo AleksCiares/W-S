@@ -5,7 +5,7 @@
 
 ## 2. User requiremets ##
 ### 2.1 Software interface ###
-	С#, XAML, .NET Framework 4.2 and later, WPF, frameworks ScrapySharp и Catel.
+	С#, XAML, .NET Framework 4.2 and later, WPF, Frameworks ScrapySharp и MvvmLight.
 
 ### 2.2 User interface ###
 	Window interface allows enter site`s url-address, that from will scarpe data, 
