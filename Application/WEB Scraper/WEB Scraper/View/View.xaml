@@ -1,25 +1,36 @@
-﻿<Window
+﻿<controls:MetroWindow
     x:Class="WEB_Scraper.View"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:controls="http://metro.mahapps.com/winfx/xaml/controls"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:local="clr-namespace:WEB_Scraper"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     Title="WEB SCRAPER"
-    Width="529"
-    Height="450"
-    mc:Ignorable="d">
+    Width="500"
+    Height="400"
+    mc:Ignorable="d"
+    ResizeMode="NoResize">
 
     <Window.DataContext>
         <local:ViewModel />
     </Window.DataContext>
 
+    <!--    <Window.Background>
+        <ImageBrush
+            ImageSource="background.png" x:Name="BF"/>
+    </Window.Background>-->
+
     <Grid>
+        <Grid.Background>
+            <ImageBrush ImageSource="F:\WorkSpace\WEB scraper\Application\WEB Scraper\background.png"/>
+        </Grid.Background>
+        
         <TextBox
             x:Name="URL"
             Width="250"
             Height="23"
-            Margin="25,92,0,0"
+            Margin="25,72,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Text="{Binding URL}"
@@ -28,7 +39,7 @@
             x:Name="Command"
             Width="250"
             Height="23"
-            Margin="25,175,0,0"
+            Margin="25,155,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Text="{Binding Command}"
@@ -37,7 +48,7 @@
             x:Name="Path"
             Width="250"
             Height="23"
-            Margin="25,250,0,0"
+            Margin="25,230,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Text="{Binding PathToFile}"
@@ -46,7 +57,7 @@
             x:Name="Depth"
             Width="70"
             Height="23"
-            Margin="25,317,0,0"
+            Margin="25,297,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Text="{Binding Depth}"
@@ -55,7 +66,7 @@
             x:Name="Extan"
             Width="52"
             Height="23"
-            Margin="298,251,0,0"
+            Margin="298,231,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Text="{Binding Extеnsion}"
@@ -63,34 +74,34 @@
         <TextBlock
             x:Name="label"
             Width="145"
-            Margin="25,76,0,0"
+            Margin="25,56,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Text="URL" />
         <TextBlock
             x:Name="label1"
             Width="250"
-            Margin="25,154,0,0"
+            Margin="25,134,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Text="CSS Selector or XPath command" />
         <TextBlock
             x:Name="label2"
             Width="145"
-            Margin="25,229,0,0"
+            Margin="25,209,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Text="Path to starage directory" />
         <TextBlock
             x:Name="label3"
             Width="145"
-            Margin="25,296,0,0"
+            Margin="25,276,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Text="Scrape depth" />
         <Label
             x:Name="label4"
-            Margin="280,247,0,0"
+            Margin="280,227,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Content="." />
@@ -98,16 +109,11 @@
             x:Name="button"
             Width="155"
             Height="55"
-            Margin="295,305,0,0"
+            Margin="295,285,0,0"
             HorizontalAlignment="Left"
             VerticalAlignment="Top"
             Command="{Binding StartScarpe}"
             Content="Start scraping" />
 
-
-
-
-
-
     </Grid>
-</Window>
+</controls:MetroWindow>

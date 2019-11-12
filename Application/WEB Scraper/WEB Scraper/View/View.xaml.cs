@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MahApps.Metro.Controls;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,10 +19,11 @@ namespace WEB_Scraper
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
     /// </summary>
-    public partial class View : Window
+    public partial class View : MetroWindow
     {
         public View()
         {
+            //BF.ImageSource = new BitmapImage(new Uri("background.png", UriKind.RelativeOrAbsolute));
             InitializeComponent();
         }
     }

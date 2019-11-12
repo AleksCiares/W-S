@@ -1,5 +1,6 @@
 ﻿using GalaSoft.MvvmLight;
 using GalaSoft.MvvmLight.Command;
+using MahApps.Metro.Controls;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -12,7 +13,7 @@ using System.Windows.Input;
 
 namespace WEB_Scraper
 {
-    public class ViewModel : ViewModelBase
+    public class ViewModel :  ViewModelBase
     {
         private string _url;
         private string _command;
@@ -71,7 +72,6 @@ namespace WEB_Scraper
                 }
             }
         }
-
 
         public ICommand StartScarpe
         {
