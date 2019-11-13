@@ -1,0 +1,61 @@
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\WEB Scraper.exe.config
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\WEB Scraper.exe
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\WEB Scraper.pdb
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\CommonServiceLocator.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\ControlzEx.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\FSharp.Core.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\GalaSoft.MvvmLight.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\GalaSoft.MvvmLight.Extras.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\GalaSoft.MvvmLight.Platform.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\HtmlAgilityPack.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\MahApps.Metro.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\ScrapySharp.Core.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\ScrapySharp.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\System.Text.Encoding.CodePages.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\System.Windows.Interactivity.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\ControlzEx.pdb
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\FSharp.Core.xml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\GalaSoft.MvvmLight.pdb
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\GalaSoft.MvvmLight.xml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\GalaSoft.MvvmLight.Extras.pdb
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\GalaSoft.MvvmLight.Extras.xml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\GalaSoft.MvvmLight.Platform.pdb
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\GalaSoft.MvvmLight.Platform.xml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\HtmlAgilityPack.pdb
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\HtmlAgilityPack.xml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\MahApps.Metro.pdb
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\MahApps.Metro.xml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\cs\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\de\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\en\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\es\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\fr\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\it\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\ja\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\ko\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\pl\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\pt-BR\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\ru\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\tr\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\zh-Hans\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\zh-Hant\FSharp.Core.resources.dll
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\View\View.g.cs
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\App.g.cs
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\GeneratedInternalTypeHelper.g.cs
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\WEB Scraper_MarkupCompile.cache
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\WEB Scraper_MarkupCompile.lref
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\App.baml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\View\View.baml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\WEB Scraper.g.resources
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\WEB_Scraper.Properties.Resources.resources
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\WEB Scraper.csproj.GenerateResource.cache
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\WEB Scraper.csproj.CopyComplete
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\WEB Scraper.exe
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\WEB Scraper.pdb
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\WEB Scraper.exe.manifest
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\WEB Scraper.application
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\WEB Scraper.exe.manifest
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\WEB Scraper.application
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\WEB Scraper.csprojAssemblyReference.cache

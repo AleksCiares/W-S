@@ -23,7 +23,7 @@ namespace WEB_Scraper
     {
         public View()
         {
-            //BF.ImageSource = new BitmapImage(new Uri("background.png", UriKind.RelativeOrAbsolute));
+          //  BF.ImageSource = new BitmapImage(new Uri("/WEB Scraper;component/background.png", UriKind.RelativeOrAbsolute));
             InitializeComponent();
         }
     }

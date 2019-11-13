@@ -19,14 +19,25 @@ namespace WEB_Scraper
         private string _command;
         private string _pathToFile;
         private ICommand _startScrape;
-        //private HtmlLoader _htmlLoader = new HtmlLoader();
-        //private WebParser<string> _webParser = new WebParser<string>();
-        //private Data<string> _data = new Data<string>();
-        private List<Task> _tasks = new List<Task>();
+        private string _extension;
         int fileCount;
+        private List<Task> _tasks = new List<Task>();
 
         public int Depth { get; set; }
-        public string Extеnsion { get; set; }
+        public string Extеnsion
+        {
+            get { return _extension; }
+            set
+            {
+                if (value == "pdf")
+                {
+                    MessageBox.Show("Comming soon...", "", MessageBoxButton.OK, MessageBoxImage.Information);
+                    return;
+                }
+
+                _extension = value;
+            }
+        }
         public string URL
         {
             get { return _url; }

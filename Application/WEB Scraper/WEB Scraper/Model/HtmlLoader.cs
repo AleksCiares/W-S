@@ -12,7 +12,6 @@ namespace WEB_Scraper
             var document = webGet.Load(baseUrl);
             documents.Add(document);
 
-            // var nodes = document.DocumentNode.CssSelect("*[href]");
             var nodes = document.DocumentNode.SelectNodes("//*[@href]");
             
             foreach (var node in nodes)

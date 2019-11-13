@@ -55,3 +55,7 @@ F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\ControlzE
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\MahApps.Metro.pdb
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\MahApps.Metro.xml
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\App.baml
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\WEB Scraper.exe.manifest
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Debug\WEB Scraper.application
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\WEB Scraper.exe.manifest
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Debug\WEB Scraper.application
