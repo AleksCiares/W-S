@@ -6,7 +6,7 @@ using System.Collections.Generic;
 
 namespace WEB_Scraper
 {
-    class WebParser<T>
+    class WebParser<T> : IParser<T>
         where T : class
     {
         public List<T> Parse(HtmlDocument document, string command)

@@ -9,8 +9,8 @@
     Title="WEB SCRAPER"
     Width="500"
     Height="400"
-    mc:Ignorable="d"
-    ResizeMode="NoResize">
+    ResizeMode="NoResize"
+    mc:Ignorable="d">
 
     <Window.DataContext>
         <local:ViewModel />
@@ -20,13 +20,13 @@
         <ImageBrush
             ImageSource="background.png" x:Name="BF"/>
     </Window.Background>-->
-    
+
     <Grid>
         <Grid.Background>
-            <ImageBrush ImageSource="F:\\WorkSpace\\WEB scraper\\Application\\WEB Scraper\\background.png"/>
+            <ImageBrush ImageSource="F:\\WorkSpace\\WEB scraper\\Application\\WEB Scraper\\background.png" />
         </Grid.Background>
-        
-        
+
+
         <TextBox
             x:Name="URL"
             Width="250"
