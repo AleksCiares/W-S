@@ -58,3 +58,4 @@ F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\WEB Scr
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\bin\Release\WEB Scraper.application
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\WEB Scraper.exe.manifest
 F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\WEB Scraper.application
+F:\WorkSpace\WEB scraper\Application\WEB Scraper\WEB Scraper\obj\Release\WEB Scraper.csprojAssemblyReference.cache

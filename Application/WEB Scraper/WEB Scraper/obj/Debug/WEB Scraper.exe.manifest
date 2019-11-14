@@ -366,14 +366,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WEB Scraper.exe" size="19424">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="WEB Scraper.exe" size="24032">
       <assemblyIdentity name="WEB Scraper" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>z+lkLOJDUye5ltcSl1pFpL0ICV0PJ6sn2zGhFxQ3SS4=</dsig:DigestValue>
+        <dsig:DigestValue>gsKZ+QF8aBRhMW1D62lFmqmSADBt9llq7MakVAQhyj8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

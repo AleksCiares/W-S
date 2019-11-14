@@ -25,11 +25,11 @@ namespace WEB_Scraper
             get { return _extension; }
             set
             {
-                if (value == "pdf")
-                {
-                    MessageBox.Show("Comming soon...", "", MessageBoxButton.OK, MessageBoxImage.Information);
-                    return;
-                }
+                //if (value == "pdf")
+                //{
+                //    MessageBox.Show("Comming soon...", "", MessageBoxButton.OK, MessageBoxImage.Information);
+                //    return;
+                //}
 
                 _extension = value;
             }
@@ -101,9 +101,25 @@ namespace WEB_Scraper
                         Data<string> data = new Data<string>();
                         int fileID = fileCount;
 
-                        foreach (var document in htmlLoader.HtmlLoad(URL, Depth))
-                            data.StorageData($"{PathToFile}/{Command}_({fileID}).{Extеnsion}",
-                                webParser.Parse(document, Command));
+                        if (_extension == "pdf")
+                        {
+                            foreach (var document in htmlLoader.HtmlLoad(URL, Depth))
+                            {
+                                data.StorageData($"{PathToFile}/file_({Command}).doc",
+                                    webParser.Parse(document, Command));
+
+                                Microsoft.Office.Interop.Word.Application application = new Microsoft.Office.Interop.Word.Application();
+                                var wordDoc = application.Documents.Open($"{PathToFile}/file_({Command}).doc");
+                                wordDoc.ExportAsFixedFormat($"{PathToFile}/file_({Command}).pdf", Microsoft.Office.Interop.Word.WdExportFormat.wdExportFormatPDF);
+                                wordDoc.Close();
+                            }
+                        }
+                        else
+                        {
+                            foreach (var document in htmlLoader.HtmlLoad(URL, Depth))
+                                data.StorageData($"{PathToFile}/file_({fileID}).{Extеnsion}",
+                                    webParser.Parse(document, Command));
+                        }
 
                         MessageBox.Show("I did all the work for you.XD", "DONE", MessageBoxButton.OK,
                                 MessageBoxImage.Information);
