@@ -4,7 +4,7 @@ reformatting the data to required format.
 # 
 
 ### Target platform ### 
-Windows .NET Framework 4.2(later)
+Windows .NET Framework 4.7.2(later)
 
 ### Supported language ###
 English
