@@ -1,1 +1,1 @@
-*.cs diff=csharp
+*.* linguist-language=C#
