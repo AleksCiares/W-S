@@ -9,7 +9,7 @@ using System.Windows.Input;
 
 namespace WEB_Scraper
 {
-    public class ViewModel :  ViewModelBase
+    public class ViewModel : ViewModelBase
     {
         private string _url;
         private string _command;
@@ -50,12 +50,12 @@ namespace WEB_Scraper
         }
         public string Command
         {
-            get{ return _command; }
-            set{ _command = value; }
+            get { return _command; }
+            set { _command = value; }
         }
         public string PathToFile
         {
-            get{ return _pathToFile; }
+            get { return _pathToFile; }
             set
             {
                 if (value == null) return;
@@ -68,7 +68,7 @@ namespace WEB_Scraper
                 }
                 catch (ArgumentException)
                 {
-                    MessageBox.Show("Path contains invalid characters such as \", <, >, or |.\n", 
+                    MessageBox.Show("Path contains invalid characters such as \", <, >, or |.\n",
                         "INVALID PATH", MessageBoxButton.OK, MessageBoxImage.Exclamation);
                     _pathToFile = null;
                 }
@@ -86,9 +86,9 @@ namespace WEB_Scraper
             {
                 return _startScrape ?? (_startScrape = new RelayCommand(() =>
                 {
-                    if(URL == null || Command == null || PathToFile == null)
+                    if (URL == null || Command == null || PathToFile == null)
                     {
-                        MessageBox.Show("Fill in the fields correctly", "UNFILLED", MessageBoxButton.OK, 
+                        MessageBox.Show("Fill in the fields correctly", "UNFILLED", MessageBoxButton.OK,
                             MessageBoxImage.Exclamation);
                         return;
                     }
@@ -101,24 +101,23 @@ namespace WEB_Scraper
                         Data<string> data = new Data<string>();
                         int fileID = fileCount;
 
-                        if (_extension == "pdf")
+                        foreach (var document in htmlLoader.HtmlLoad(URL, Depth))
                         {
-                            foreach (var document in htmlLoader.HtmlLoad(URL, Depth))
+                            if (Extеnsion == "pdf")
                             {
-                                data.StorageData($"{PathToFile}/file_({Command}).doc",
-                                    webParser.Parse(document, Command));
+                                data.StorageData($"{PathToFile}/file_({fileID}).doc",
+                                webParser.Parse(document, Command));
 
                                 Microsoft.Office.Interop.Word.Application application = new Microsoft.Office.Interop.Word.Application();
-                                var wordDoc = application.Documents.Open($"{PathToFile}/file_({Command}).doc");
-                                wordDoc.ExportAsFixedFormat($"{PathToFile}/file_({Command}).pdf", Microsoft.Office.Interop.Word.WdExportFormat.wdExportFormatPDF);
+                                var wordDoc = application.Documents.Open($"{PathToFile}/file_({fileID}).doc");
+                                wordDoc.ExportAsFixedFormat($"{PathToFile}/file_({fileID}).pdf", Microsoft.Office.Interop.Word.WdExportFormat.wdExportFormatPDF);
                                 wordDoc.Close();
                             }
-                        }
-                        else
-                        {
-                            foreach (var document in htmlLoader.HtmlLoad(URL, Depth))
+                            else
+                            {
                                 data.StorageData($"{PathToFile}/file_({fileID}).{Extеnsion}",
                                     webParser.Parse(document, Command));
+                            }
                         }
 
                         MessageBox.Show("I did all the work for you.XD", "DONE", MessageBoxButton.OK,
