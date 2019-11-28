@@ -1,5 +1,5 @@
 # Test plan
-## Contents
+## Content
 
 1. [Introduction](#par1) 
 2. [Test object](#par2)
@@ -16,8 +16,8 @@ That information made to testing team which going to test application for compli
 ## <a name="par2">2. Test object</a>
 Test object includes functional requirements, convenience and ease of use.
 The quality attributes:
-1. Functionality.
-2. Simplicity of use.
+1. functionality;
+2. simplicity of use;
 
 ## <a name="par3">3. Ricks</a>
 Device must have keybord, mouse(or touchpad), .NET 4.7.2 for correct application operation. 
@@ -30,15 +30,15 @@ Compliance requirements:
 3. save scraped data in txt;
 4. save scraped data in doc;
       
-Must check other requirement:  
+Must check other requirements:  
 1. performance;
-2. Simple and understandable graphic interface;
+2. simple and understandable graphic interface;
 
 ## <a name="par5">5. Test approaches</a>
 Manual testing must be used to check all test aspects. 
 
 ## <a name="par6">6. Presentation of results</a>
-Link to test results [Test](https://github.com/Boris-Lavrenov/projectTRTPO/blob/master/Test/Test.md).
+Link to test results [Test](https://github.com/AleksCiares/W-S/blob/master/Test/Test.md).
 
 ## <a name="par7">7. Conclusions</a>
 This test plan allows you to test the main functionality of the application. Successful completion of all tests does not guarantee 
