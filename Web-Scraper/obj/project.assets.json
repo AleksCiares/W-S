@@ -8,23 +8,23 @@
     "net7.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\pavel\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Павел\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\projects\\W-S\\Web-Scraper\\Web-Scraper.csproj",
-      "projectName": "Web-Scraper",
-      "projectPath": "E:\\projects\\W-S\\Web-Scraper\\Web-Scraper.csproj",
-      "packagesPath": "C:\\Users\\pavel\\.nuget\\packages\\",
+      "projectUniqueName": "E:\\projects\\W-S\\Web-Scraper\\WebScraper.csproj",
+      "projectName": "WebScraper",
+      "projectPath": "E:\\projects\\W-S\\Web-Scraper\\WebScraper.csproj",
+      "packagesPath": "C:\\Users\\Павел\\.nuget\\packages\\",
       "outputPath": "E:\\projects\\W-S\\Web-Scraper\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\pavel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Павел\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

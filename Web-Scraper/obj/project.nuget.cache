@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kiIL8pvXcn+edrps/iOkLvpKLNrhML5+5PgCT8o90JsQJhUXsrlo3XaUFnWg+vFsJrh3p8tH76Fyx0zkPyXIpg==",
+  "dgSpecHash": "lWxF9HSLl0poWAcejb0gbGhXxozwZRZLfHb/eHsd/pWu2zdTpEcwVcyZn28Vfo8ToSxAIxUPb0jr2G8rC4zkDQ==",
   "success": true,
-  "projectFilePath": "E:\\projects\\W-S\\Web-Scraper\\Web-Scraper.csproj",
+  "projectFilePath": "E:\\projects\\W-S\\Web-Scraper\\WebScraper.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
