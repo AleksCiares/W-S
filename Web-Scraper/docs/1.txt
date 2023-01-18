@@ -5,7 +5,7 @@
 
 1.
 нативный способ получения - .NET HTTP Libraries
-получение динамических страниц - CefSharp
+получение динамических страниц - CefSharp Selenium
 получение данных через Rest API - RestSharp(Rest API Client)
 получение данных через платные сервисы - Scraper API
 
